@@ -1,0 +1,1 @@
+This is another project for The Odin Project. I will be making a landing page using css and html. We dont have to add any complicated design, but I like doomfist so I am making it about him.
