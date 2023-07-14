@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    display: flex;
+    gap: 16px;
+    justify-content: flex-end;
+    
+}
+.header > a {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+   
+}
+.dom {
+    width: 20%;
+ border: 2px solid black;
+}
+.wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    font-family: sans-serif;
+
+}
+button {
+    max-width: 25%;
+    padding: 2%;
+    border-radius: 25px;
+    border: 2px solid aquamarine;
+    cursor: pointer;
+    background-color: aquamarine;
+    width: 20%;
+}
+.dom2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    gap: 48px;
+}
+
+.color {
+    background-color: rgb(202, 207, 253);
+    padding: 1%;
+    border-color: rgb(202, 207, 253);
+}
